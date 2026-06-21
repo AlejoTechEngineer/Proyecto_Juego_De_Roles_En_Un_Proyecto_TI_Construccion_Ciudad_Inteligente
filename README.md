@@ -1,3 +1,5 @@
+<div align="center">
+
 # Juego de Roles en un Proyecto TI — Construcción de Ciudad Inteligente
 
 ![Smart City](https://img.shields.io/badge/Smart_City-IoT-00C853?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Simulación de juego de roles en un proyecto TI de ciudad inteligente con múltiples stakeholders.
 
 ## Descripción
+
+</div>
+
+---
 
 Ejercicio de simulación de **juego de roles** en un proyecto TI de gran escala: construcción de una ciudad inteligente (Smart City). Cada participante asume un rol crítico del proyecto (arquitecto, PM, CTO, proveedor, regulador) y debe tomar decisiones bajo restricciones reales de tiempo, presupuesto, recursos y expectativas de stakeholders divergentes.
 
@@ -33,3 +39,12 @@ IoT · Edge Computing · Big Data · IA · 5G · Ciberseguridad urbana
 
 **Asignatura:** Dirección y Gestión de Empresas TI · **Institución:** UNIR · Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Máster Arquitectura de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
