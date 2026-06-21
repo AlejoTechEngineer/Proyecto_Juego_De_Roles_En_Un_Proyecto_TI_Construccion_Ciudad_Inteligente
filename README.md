@@ -23,14 +23,6 @@ Ejercicio de simulación de **juego de roles** en un proyecto TI de gran escala:
 | `Tablas.xlsx` | Matrices de stakeholders, decisiones y conflictos |
 | `Juego de roles*.docx` | Material de apoyo con fichas de roles |
 
-## Roles simulados en el proyecto
-
-- **Project Manager:** Gestión del alcance, tiempo y presupuesto
-- **Arquitecto de Software:** Decisiones tecnológicas y de arquitectura
-- **CTO:** Visión estratégica y alineación con objetivos de negocio
-- **Proveedor:** Negociación de contratos y entrega de componentes
-- **Regulador:** Cumplimiento normativo e impacto ciudadano
-
 ## Arquitectura
 
 ```mermaid
@@ -48,6 +40,14 @@ flowchart TD
     C --> L[5G / Ciberseguridad Urbana]
     D --> M[Matrices de Stakeholders y Decisiones]
 ```
+
+## Roles simulados en el proyecto
+
+- **Project Manager:** Gestión del alcance, tiempo y presupuesto
+- **Arquitecto de Software:** Decisiones tecnológicas y de arquitectura
+- **CTO:** Visión estratégica y alineación con objetivos de negocio
+- **Proveedor:** Negociación de contratos y entrega de componentes
+- **Regulador:** Cumplimiento normativo e impacto ciudadano
 
 ## Tecnologías de la Smart City modelada
 
