@@ -31,6 +31,24 @@ Ejercicio de simulación de **juego de roles** en un proyecto TI de gran escala:
 - **Proveedor:** Negociación de contratos y entrega de componentes
 - **Regulador:** Cumplimiento normativo e impacto ciudadano
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Juego_Roles_Smart_City] --> B[Roles del Proyecto TI]
+    A --> C[Tecnologias Smart City]
+    A --> D[Documentacion PDF / DOCX / XLSX]
+    B --> E[Project Manager - Alcance/Tiempo/Presupuesto]
+    B --> F[Arquitecto de Software - Decisiones Tecnicas]
+    B --> G[CTO - Vision Estrategica]
+    B --> H[Proveedor - Contratos y Componentes]
+    B --> I[Regulador - Cumplimiento Normativo]
+    C --> J[IoT / Edge Computing]
+    C --> K[Big Data / IA]
+    C --> L[5G / Ciberseguridad Urbana]
+    D --> M[Matrices de Stakeholders y Decisiones]
+```
+
 ## Tecnologías de la Smart City modelada
 
 IoT · Edge Computing · Big Data · IA · 5G · Ciberseguridad urbana
